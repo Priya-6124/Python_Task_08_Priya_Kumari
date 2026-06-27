@@ -1,0 +1,72 @@
+============================================================
+SMART FILE ORGANIZER REPORT
+============================================================
+
+Generated : 2026-06-27 20:48:33.440638
+
+Folder : C:\Users\vikes\OneDrive\Desktop\Programming_Task_08_Priya_Kumari\Sample_Test_Folder
+
+Category Counts
+Images : 4
+Others : 4
+Archives : 1
+Documents : 29
+Programs : 7
+
+Duplicate Files
+No Duplicate Files
+
+Folder Structure
+Sample_Test_Folder
+    file_report.txt
+    report.csv
+    Archives
+        archive.zip
+    Documents
+        City_Codes.xlsx
+        Customer_Data_DT1 1st one.xlsx
+        DBMS Normalization Presentation.pptx
+        Employee+Layoffs_DT3.csv
+        Fact_Sales_Data+1.xlsx
+        Java Exception Handling.pptx
+        Linked List  Dynamic Memory Allocation.pptx
+        Market_Sales_2019.xlsx
+        Market_Sales_2020.csv
+        ML Classification Results Interpretation.pptx
+        Movie_Sales_Data(4th transformation).xlsx
+        MVC Architecture Presentation.pptx
+        OOPS in Java - Core Concepts.pptx
+        OS CPU Scheduling Algorithms.pptx
+        OSI Model - Real-Time Data Transmission.pptx
+        Python and C Programming - Task 03.pdf
+        Python and C Programming - Task 05.pdf
+        Python and C programming - Task 06.pdf
+        Python and C Programming Task 01.pdf
+        Python and C Programming Task 02.pdf
+        Python and C Programming Task 04.pdf
+        Python Programming Task 08- File Organizer & Data Management System.pdf
+        SalesData.xlsx
+        SDLC Phases Presentation.pptx
+        Sorting Algorithm Selection Guide.pptx
+        Sorting_Algorithms_Use_Case.pptx
+        SPOTIFY DATASET.csv
+        SQL Joins in DBMS.pptx
+        Stack Data Structures.pptx
+    Images
+        26258.webp
+        ey-malta-powerbi-workshop.jpg
+        upscalemedia-transformed (1).jpeg
+        wp9894938.webp
+    Others
+        abstract-dark-blue-vector-futuristic-digital-grid-background_53876-110562.avif
+        abstract-red-circle-black-background-technology_1142-9928.avif
+        Codex.dmg
+        download.jfif
+    Programs
+        CursorUserSetup-x64-2.4.35.exe
+        Git-2.54.0-64-bit.exe
+        GitHubDesktopSetup-x64.exe
+        node-v24.17.0-x64.msi
+        TableauPublicDesktop-64bit-2025-3-2.exe
+        VSCodeUserSetup-x64-1.112.0.exe
+        ZoomInstallerFull.exe
